@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accessible Interactive Photo Gallery</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body onload="addTabFocus()">
+    <main>
+        <h1>Accessible Interactive Photo Gallery</h1>
+
+        <div id="image" aria-live="polite">
+            Hover over or focus on an image below to display it here.
+        </div>
+
+        <div class="gallery">
+            <img class="preview"
+                 src="beach.svg"
+                 alt="A quiet beach under a blue sky"
+                 onmouseover="upDate(this)"
+                 onmouseleave="unDo()"
+                 onfocus="upDate(this)"
+                 onblur="unDo()">
+
+            <img class="preview"
+                 src="mountain.svg"
+                 alt="Green mountains beneath the morning sun"
+                 onmouseover="upDate(this)"
+                 onmouseleave="unDo()"
+                 onfocus="upDate(this)"
+                 onblur="unDo()">
+
+            <img class="preview"
+                 src="forest.svg"
+                 alt="A peaceful forest with tall trees"
+                 onmouseover="upDate(this)"
+                 onmouseleave="unDo()"
+                 onfocus="upDate(this)"
+                 onblur="unDo()">
+
+            <img class="preview"
+                 src="city.svg"
+                 alt="A modern city skyline at sunset"
+                 onmouseover="upDate(this)"
+                 onmouseleave="unDo()"
+                 onfocus="upDate(this)"
+                 onblur="unDo()">
+
+            <img class="preview"
+                 src="lake.svg"
+                 alt="A calm lake surrounded by green hills"
+                 onmouseover="upDate(this)"
+                 onmouseleave="unDo()"
+                 onfocus="upDate(this)"
+                 onblur="unDo()">
+
+            <img class="preview"
+                 src="desert.svg"
+                 alt="Golden desert dunes beneath a clear sky"
+                 onmouseover="upDate(this)"
+                 onmouseleave="unDo()"
+                 onfocus="upDate(this)"
+                 onblur="unDo()">
+        </div>
+    </main>
+</body>
+</html>

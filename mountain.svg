@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title desc">
+  <title id="title">Mountain</title>
+  <desc id="desc">Green mountains beneath the morning sun</desc>
+  <rect width="900" height="600" fill="#bae6fd"/>
+  <circle cx="720" cy="120" r="70" fill="#facc15"/>
+  <path d="M0 520 250 190 490 520Z" fill="#3f7d5a"/>
+  <path d="M250 190 180 285 250 255 315 285Z" fill="#f8fafc"/>
+  <path d="M260 520 590 150 900 520Z" fill="#276749"/>
+  <path d="M590 150 515 235 590 210 660 240Z" fill="#f8fafc"/>
+  <rect y="510" width="900" height="90" fill="#86b86b"/>
+</svg>

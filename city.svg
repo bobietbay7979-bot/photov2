@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title desc">
+  <title id="title">City skyline</title>
+  <desc id="desc">A modern city skyline at sunset</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#fb923c"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="600" fill="url(#sky)"/>
+  <circle cx="710" cy="165" r="68" fill="#fde68a"/>
+  <g fill="#263449">
+    <rect x="55" y="315" width="130" height="285"/>
+    <rect x="205" y="235" width="145" height="365"/>
+    <rect x="375" y="285" width="120" height="315"/>
+    <rect x="520" y="175" width="160" height="425"/>
+    <rect x="710" y="340" width="135" height="260"/>
+  </g>
+  <g fill="#fde68a">
+    <rect x="90" y="350" width="25" height="35"/><rect x="130" y="350" width="25" height="35"/>
+    <rect x="245" y="280" width="28" height="38"/><rect x="295" y="280" width="28" height="38"/>
+    <rect x="560" y="225" width="30" height="40"/><rect x="615" y="225" width="30" height="40"/>
+  </g>
+</svg>

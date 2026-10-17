@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title desc">
+  <title id="title">Lake</title>
+  <desc id="desc">A calm lake surrounded by green hills</desc>
+  <rect width="900" height="600" fill="#a5f3fc"/>
+  <circle cx="720" cy="115" r="62" fill="#fef08a"/>
+  <path d="M0 370 175 190 350 370Z" fill="#4d7c5b"/>
+  <path d="M210 380 480 135 730 380Z" fill="#356348"/>
+  <path d="M545 370 725 205 900 370Z" fill="#4d7c5b"/>
+  <rect y="360" width="900" height="240" fill="#3b82a0"/>
+  <path d="M0 430 Q170 390 340 430 T680 430 T1020 430" fill="none" stroke="#dff7ff" stroke-width="13"/>
+  <path d="M80 515 Q240 480 400 515 T720 515 T1040 515" fill="none" stroke="#9ee7f5" stroke-width="10"/>
+</svg>

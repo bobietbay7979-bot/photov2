@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title desc">
+  <title id="title">Desert</title>
+  <desc id="desc">Golden desert dunes beneath a clear sky</desc>
+  <rect width="900" height="600" fill="#7dd3fc"/>
+  <circle cx="720" cy="125" r="72" fill="#fde047"/>
+  <path d="M0 410 Q230 250 470 410 T930 390 V600 H0Z" fill="#f4c66a"/>
+  <path d="M0 485 Q220 350 450 500 T900 455 V600 H0Z" fill="#dda64b"/>
+  <path d="M0 545 Q260 440 520 555 T950 520 V600 H0Z" fill="#bd7f2f"/>
+  <g fill="#2f6b45">
+    <rect x="165" y="335" width="24" height="125"/>
+    <rect x="125" y="365" width="65" height="22"/>
+    <rect x="165" y="390" width="70" height="22"/>
+  </g>
+</svg>

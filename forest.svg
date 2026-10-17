@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title desc">
+  <title id="title">Forest</title>
+  <desc id="desc">A peaceful forest with tall trees</desc>
+  <rect width="900" height="600" fill="#d1fae5"/>
+  <rect y="485" width="900" height="115" fill="#52734d"/>
+  <g fill="#7c4a2d">
+    <rect x="115" y="245" width="45" height="275"/>
+    <rect x="310" y="190" width="52" height="330"/>
+    <rect x="535" y="220" width="48" height="300"/>
+    <rect x="735" y="170" width="55" height="350"/>
+  </g>
+  <g fill="#166534">
+    <circle cx="138" cy="210" r="115"/>
+    <circle cx="335" cy="155" r="135"/>
+    <circle cx="558" cy="185" r="125"/>
+    <circle cx="762" cy="140" r="145"/>
+  </g>
+</svg>
